@@ -5,7 +5,7 @@ const About = () => {
   return (
     <UserLayout>
       <Container className="my-5">
-        <h1>About</h1>
+        <h1>ABOUT</h1>
         <p>HALAMAN TENTANG KAMI</p>
       </Container>
     </UserLayout>
